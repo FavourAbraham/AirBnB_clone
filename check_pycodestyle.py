@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/python3
 # A beautiful code that passes pycodestyle
 
 # Define a class
