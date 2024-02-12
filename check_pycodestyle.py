@@ -3,6 +3,13 @@
 
 # Define a class
 class e_Class:
+    """
+    Class: e_Class
+    This class represents an example class that performs a simple computation.
+    Attributes:
+    - a: The first parameter for the class instance.
+    - b: The second parameter for the class instance.
+    """
 
     def __init__(self, a, b):
         self.a = a
